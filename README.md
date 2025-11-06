@@ -4,12 +4,12 @@
 
 **Team Member:** Hieu Lu  
 **Course:** ITAI 1378 – Computer Vision and AI  
-**Project Tier:** Tier 1
+**Project Tier:** Tier 2
 
 ---
 
 ## Tier Selection and Justification
-**Tier 1:**  
+**Tier 2:**  
 This project involves model training, dataset handling, and potential real-time image classification. It goes beyond basic image recognition but remains achievable using Google Colab and open datasets. It’s practical, well-scoped, and can be implemented within the semester timeframe.
 
 ---
@@ -95,8 +95,6 @@ SmartTrashSorter/
 ├── notebooks/
 │   └── 01_exploration.ipynb
 ├── data/
-│   └── README.md
-└── docs/
     └── proposal.pdf
 ```
 
